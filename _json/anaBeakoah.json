@@ -1,0 +1,58 @@
+[
+  {
+    "id":0,
+    "name":"alef, bet, gimel, yud, tav, tsadi",
+    "day":"domingo",
+    "description":"meditação para desmaterializar a ilusão, remover a influência do materialismo e nos conectar com a árvore da vida;",
+    "file":"01.png",
+    "transcription":"Ana bekôach gedulát yeminchá tatir tzerurá"
+  },
+  {
+    "id":1,
+    "name":"kof,reish, ayin, sin, tet, nun",
+    "day":"segunda",
+    "description":"meditação para frear os impulsos reativos, para combater o Mal, para eliminar pensamentos negativos e para fechar as portas para Satan",
+    "file":"02.png",
+    "transcription":"Kabél rinát amcha sagveinu tahareinu norá"
+  },
+  {
+    "id":2,
+    "name":"nun, gimel, dalet, yud, kaf, shin",
+    "day":"terça",
+    "description":"meditação para a prosperidade e para abrir os canais para o sustento (primeiras três letras, da direita para a esquerda). Para recuperar a energia perdida para o lado negro** e para eliminar o ódio sem motivo conhecido ou aparente (quarta, quinta e sexta letras)",
+    "file":"03.png",
+    "transcription":"Na guibór dorshéi yechúdcha kevavát shomrem"
+  },
+  {
+    "id":3,
+    "name":"bet, tet, reish, tsadi, tav, gimel",
+    "day":"quarta",
+    "description":" meditação para alcançar a perseverança e força para continuar seu caminho, mesmo perante a adversidade",
+    "file":"04.png",
+    "transcription":"Barchem taharem rachamei tzidkatechá tamid gomlem"
+  },
+  {
+    "id":4,
+    "name":"het, kof, tet, nun, ayin",
+    "day":"quinta",
+    "description":"meditação para desenvolver a clarividência, o sexto sentido e para conseguir enxergar a causa além do efeito. Também para adquirir a capacidade de vivenciar o aqui/agora",
+    "file":"05.png",
+    "transcription":"Hassín kadósh beróv tuvchá nahél adatechá"
+  },
+  {
+    "id":5,
+    "name":"yud, gimel, lamed, pei, zayin, kof",
+    "day":"sexta",
+    "description":"meditação para que a espiritualidade se espalhe pelo mundo e para que as pessoas se tornem cada vez mais conscientes das forças superiores. Também para a revelação da Cabala",
+    "file":"06.png",
+    "transcription":"Yahíd ge’eh le’amchá p’nêh zochrei kedushatechá"
+  },
+  {
+    "id":6,
+    "name":"shin, kof, tsadi, yud, tav",
+    "day":"sábado",
+    "description":"meditação para trazer energia de renovação e entusiasmo para nossas vidas.",
+    "file":"07.png",
+    "transcription":"Shavateinu kabél ushmá tza’akateinu yódea ta’alumot"
+  }
+]
