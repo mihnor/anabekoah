@@ -1,0 +1,22 @@
+{
+  "name": "anabekoah",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mihnor/anabekoah",
+  "authors": [
+    "mihnor <go@wesense.com.br>"
+  ],
+  "description": "ana bechoach",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "bootstrap": "~3.1.1"
+  }
+}
